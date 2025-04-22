@@ -13,10 +13,14 @@ Key Insights
 Visualizations
 1. Column chart: Top products of Box shipped.
 2. Line chart: Count of amount of box shipped by year trend over time.
+<br>
 3.Pie Chart :Sum of boxes shipped to Countries.
+<br>
 4.Stacked Bar chart: Sum of Boxes Shipped by Products.
 
 Actionable Recommendations
 1.Optimize product offerings: Focus on best-selling products and consider discontinuing underperforming ones.
+<br>
 2.Target high-value customers: Develop strategies to retain and acquire high-value customers Like New Zealand and USA.
+<br>
 3.Sales forecasting: Use previous sales data to analyze future sales projections.
